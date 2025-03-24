@@ -19,6 +19,7 @@ When the program is initiated, the user can scan their network normally to ident
 ## Configuration
 * To alter the base64 line (line 13), use the following online tool: https://www.revshells.com/
 * To change the IP address (line 34), replace it with the desired IP.
+* `pip install -r requirements.txt`
 
-### Note
-The program is written in Brazilian Portuguese. If you want to remove the backdoor, you can modify the code to use it only as a network scanner program. Remember, this is for educational purposes only, to understand how a backdoor works.
+> [!Note]
+> The program is written in Brazilian Portuguese. If you want to remove the backdoor, you can modify the code to use it only as a network scanner program. Remember, this is for educational purposes only, to understand how a backdoor works.
