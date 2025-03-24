@@ -1,7 +1,9 @@
 # Software Functionality
 The software functions by scanning the network `192.168.1.1/24` using `nmap`. Styled with `qt6`. Written in `python`. At the same time, it connects to the IP `192.168.1.34` creating a reverse connection on port `5500`.
-
 ![image](https://github.com/user-attachments/assets/de747991-2e48-4641-bced-85086d13c31f)
+
+> [!TIP]
+> `pyinstaller -w --icon=logo.ico scan-me.py`
 
 ![image](https://github.com/user-attachments/assets/d51ce0f3-4475-4b56-aafa-b2f3b0855e97)
 
